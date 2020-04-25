@@ -3,7 +3,10 @@
 Collection of data: Using praw and psaw (from the PushShift API), filtered by flair, and the length of the title of the post. 
 All the notebooks were run on Google Colab
 Extracted data from all posts from April 2019 onward, till around April 10th, 2020
+
+
 | Method | Accuracy |
+|--------|---------|
 | Multinomial Naive Bayes | 65.075 % |
 | Random Forest | 63.163 % |
 | Linear SVM | 64.886 % |
